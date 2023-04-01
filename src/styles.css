@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.containerss {
+  margin-top: 100px;
+}
+h1 {
+  text-align: center;
+}
+.img {
+  width: 227px;
+  height: 227px;
+  border-bottom: 1px solid #d3d3d3;
+}
+.shops {
+  border: 1px solid #d3d3d3;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 10px;
+}
+.heads {
+  text-align: center;
+}
+.butts {
+  align-self: flex-end;
+}
+.car {
+  text-align: center;
+  align-items: center;
+  margin-top: 10px;
+}
+.inputs {
+  width: 200px;
+  height: 30px;
+  border: 1px solid #d3d3d3;
+}
